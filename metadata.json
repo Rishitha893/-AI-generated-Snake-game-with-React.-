@@ -1,0 +1,6 @@
+{
+  "name": "NeonSnake Audio",
+  "description": "A retro-futuristic dark neon stylized Snake game combined with an AI-generated music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
